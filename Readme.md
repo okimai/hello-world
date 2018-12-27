@@ -2,7 +2,7 @@
 #### head first html与css(第2版)  
 看书的时候，根据网页中的图片做三个很简单的网页。 
 从以下两个题目里面选择一个。  
-1. A公司网页
+1. A公司网页  
 事業内容： https://www.sun-group.me/contents.html  
 採用情報： https://www.sun-group.me/recruit.html  
 お問い合わせ：https://www.sun-group.me/requiry.php  
